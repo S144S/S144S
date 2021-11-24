@@ -13,7 +13,7 @@
 
 - 📫 Feel free to talk to me: **saeed144.73@gmail.com** and +989197241207
 
-- ⚡ Fun fact **Electronic, artificial intelligence, and robotic are my only world :-D**
+- ⚡ **Electronic, artificial intelligence, and robotic are my only world :-D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
