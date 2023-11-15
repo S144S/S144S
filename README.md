@@ -1,4 +1,5 @@
 <!-- header -->
+
 <h1 align="center">Hi 👋, Welcome to my Profile 😊</h1>
 <img src="https://raw.githubusercontent.com/s144s/s144s/main/img/Saeed-Background.jpg" alt="👋 Hi there! I'm Saeed" title="👋 Hi there! I'm Saeed"/>
 <div align="center">
@@ -8,30 +9,30 @@
 </div>
 <!-- social media -->
 <div align="center">
-	<a href="https://www.youtube.com/c/DevProTips">
+	<a href="https://youtube.com/@saeedhosseini144">
 		<img width="32px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/s144s/s144s/main/img/youtube-icon.png"/>
 	</a>
 	&#8287;&#8287;&#8287;
-	<a href="https://www.youtube.com/c/DevProTips">
+	<a href="https://www.linkedin.com/in/saeed-hosseini-s144s/">
 		<img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/s144s/s144s/main/img/linkedin-icon.png"/>
 	</a>
 	&#8287;&#8287;&#8287;
-	<a href="https://www.youtube.com/c/DevProTips">
+	<a href="https://x.com/SaeedH144">
 		<img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/s144s/s144s/main/img/x-icon.png"/>
 	</a>
 	&#8287;&#8287;&#8287;
-	<a href="https://www.youtube.com/c/DevProTips">
+	<a href="https://stackoverflow.com/users/14313347/saeed-hosseini">
 		<img width="32px" alt="Stackoverflow" title="Stackoverflow" src="https://raw.githubusercontent.com/s144s/s144s/main/img/stack-icon.png"/>
 	</a>
 	&#8287;&#8287;&#8287;
-	<a href="https://www.youtube.com/c/DevProTips">
+	<a href="https://www.hackerrank.com/saeed144_73">
 		<img width="32px" alt="Hackerrank" title="Hackerrank" src="https://raw.githubusercontent.com/s144s/s144s/main/img/hackerrank-icon.png"/>
 	</a>
 </div>
 <br/>
 <!-- skils -->
 <details open> 
- 	<summary><h3>⚙️ My favorite tools and technologies</h3></summary>
+ 	<summary><h2>⚙️ My favorite tools and technologies</h2></summary>
 	<table>
 		<tr>
 			<td align="center" width="96">
@@ -125,5 +126,25 @@
 </details>
 
 <details> 
-  <summary><h2>📘 test</h2></summary>
+ 	<summary>
+ 		<h2>📈 My Stats and Activity</h2>
+ 	</summary>
+    <h3>🔥 Streak Stats</h3>
+	<div>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=s144s&theme=blue-navy" alt="GitHub Streak" /></a>
+	</div>
+	<h3>💻 Languages</h3>
+	<div>
+		<a href="https://github.com/anuraghazra/github-readme-stats">
+			<img alt="saeed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s144s&hide_progress=true&theme=blue_navy" height="192px"/>
+		</a>
+		<br>
+		<p>
+			<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+		</p>
+	</div>
+	<h3>⚡ Activities</h3>
+	<div>
+		  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="saeed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=s144s&bg_color=1F222E&color=F8D866&line=50CAB2&point=FFFFFF&hide_border=true&theme=merko" /></a>
+	</div>
 </details>
