@@ -154,4 +154,6 @@
 	<h3>👨‍💻 Workflow</h3>
 	<!--START_SECTION:activity-->
 	<!--END_SECTION:activity-->
+	<!--START_SECTION:waka-->
+	<!--END_SECTION:waka-->
 </details>
