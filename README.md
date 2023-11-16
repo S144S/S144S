@@ -149,6 +149,8 @@
 	</div>
 	<!--<h3>👨‍💻 Workflow</h3> -->
 	<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1116](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1116) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#1098](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/1098#issuecomment-1813938290) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 	<!--END_SECTION:activity-->
 	<!--START_SECTION:waka-->
 	<!--END_SECTION:waka-->
