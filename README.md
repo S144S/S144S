@@ -136,7 +136,7 @@
 	<h3>💻 Languages</h3>
 	<div>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img alt="saeed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s144s&hide_progress=true&theme=blue_navy" height="192px"/>
+			<img alt="saeed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s144s&&custom_title=Top+Languages&hide_progress=true&theme=blue_navy" height="192px"/>
 		</a>
 		<br>
 		<p>
@@ -146,10 +146,6 @@
 	<h3>⚡ Activities</h3>
 	<div>
 		  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Saeed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=s144s&bg_color=1F222E&color=F8D866&line=50CAB2&point=FFFFFF&hide_border=true&theme=merko" /></a>
-	</div>
-	<div>
-		<img alt="saeed's worktime" src="http://img.shields.io/badge/Code%20Time-1%2C501%20hrs%2057%20mins-blue"/>
-		<img alt="saeed's code line" src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue"/>
 	</div>
 	<h3>👨‍💻 Workflow</h3>
 	<!--START_SECTION:activity-->
