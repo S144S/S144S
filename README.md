@@ -153,7 +153,6 @@
 	</div>
 	<h3>👨‍💻 Workflow</h3>
 	<!--RECENT_ACTIVITY:start-->
-	<!--RECENT_ACTIVITY:last_update-->
 	<!--RECENT_ACTIVITY:end>
 	<!--START_SECTION:waka-->
 	<!--END_SECTION:waka-->
