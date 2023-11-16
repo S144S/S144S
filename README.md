@@ -153,7 +153,58 @@
 2. 🗣 Commented on [#1098](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/1098#issuecomment-1813938290) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 	<!--END_SECTION:activity-->
 	<!--START_SECTION:waka-->
-	<!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,064 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1161 commits        ████████████░░░░░░░░░░░░░   48.07 % 
+🌆 Daytime                801 commits         ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌃 Evening                426 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Tuesday                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                370 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Thursday                 312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Friday                   250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Saturday                 300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Sunday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+Markdown                 26 mins             █████████████░░░░░░░░░░░░   50.27 % 
+Python                   19 mins             █████████░░░░░░░░░░░░░░░░   37.56 % 
+Sublime Text Config      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+```
+
+
+ Last Updated on 16/11/2023 22:13:51 UTC
+<!--END_SECTION:waka-->
 	<!--START_SECTION:waka-simple-->
 	<!--END_SECTION:waka-simple-->
 </details>
