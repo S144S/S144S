@@ -152,5 +152,6 @@
 		<img alt="saeed's code line" src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue"/>
 	</div>
 	<h3>👨‍💻 Workflow</h3>
-	<!--RECENT_ACTIVITY:start-->
+	<!--START_SECTION:activity-->
+	<!--END_SECTION:activity-->
 </details>
