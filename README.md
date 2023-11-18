@@ -152,9 +152,9 @@
 1. 💪 Opened PR [#1116](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1116) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 2. 🗣 Commented on [#1098](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/1098#issuecomment-1813938290) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 	<!--END_SECTION:activity-->
+	
 	<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
